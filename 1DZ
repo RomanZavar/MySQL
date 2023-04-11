@@ -65,15 +65,3 @@ FROM
 mobile_phones
 WHERE
 product_name REGEXP '8';
-
-
-
-
-
-
-
-
-
-
-
-;
